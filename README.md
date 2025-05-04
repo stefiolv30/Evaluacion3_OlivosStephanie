@@ -2,6 +2,7 @@ Evaluacion 3 ,Asignatura computacion movil
 Aplicacion movil que se desarrolla en Flutter
 
 Funcionalidades Principales:
+
 -Login y registro de usuarios desde Firebase, previamente proporcionado
 
 -Listado de productos , conectados al Backend proporcionado en Postman
